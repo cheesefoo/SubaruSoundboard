@@ -1,0 +1,23 @@
+{
+    "name": "Subaru Soundboard",
+    "short_name": "subaru_soundboard",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#d1eaff",
+    "theme_color": "#d1eaff",
+    "description": "*duck noises*",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
